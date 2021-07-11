@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhaiya HN Singh</h1>
 <h3 align="center">Associate Engineer @Nagarro</h3>
 
+![image](https://user-images.githubusercontent.com/72096831/125183675-1a29f200-e236-11eb-8b50-97fd38927002.png)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaiyahns45&label=Profile%20views&color=0e75b6&style=flat" alt="bhaiyahns45" /> </p>
 
 <h3 align="left">Connect with me:</h3>
