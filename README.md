@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhaiya HN Singh</h1>
+<h1 align="center">Bhaiya HN Singh</h1>
 <h3 align="center">Associate Engineer @Nagarro</h3>
 <h4 align="center">Python | Data Science</h4>
 
