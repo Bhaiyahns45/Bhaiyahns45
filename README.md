@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Bhaiyahns45/Bhaiyahns45/blob/3e3f3f6fcfb395d5569d46f6614ac7d90970be10/Artificial_Intelligence.gif" alt="animated" />
+  <img src="https://github.com/Bhaiyahns45/Bhaiyahns45/blob/e8681c2b3c7105a4f0ffa098f2355620f2f2d1a6/Ai_gif.gif" alt="animated" />
 </p>
 
 
