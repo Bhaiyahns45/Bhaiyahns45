@@ -5,7 +5,15 @@
 ![image](https://user-images.githubusercontent.com/72096831/125183675-1a29f200-e236-11eb-8b50-97fd38927002.png)
 
 
+
+<p align="center">
+  <img src=![J4x](https://user-images.githubusercontent.com/72096831/200463059-ee9da1b2-cc6c-4f30-88ae-d5f524968903.gif) alt="animated" />
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaiyahns45&label=Profile%20views&color=0e75b6&style=flat" alt="bhaiyahns45" /> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,6 +22,9 @@
 <a href="https://www.youtube.com/channel/UCqNDrttqajD59JbHwVVmaUw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bhaiya hn singh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bhaiyahns45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhaiyahns45" height="30" width="40" /></a>
 </p>
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
