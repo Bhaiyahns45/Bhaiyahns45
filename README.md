@@ -6,8 +6,9 @@
 
 
 
+
 <p align="center">
-  <img src=![J4x](https://user-images.githubusercontent.com/72096831/200463059-ee9da1b2-cc6c-4f30-88ae-d5f524968903.gif) alt="animated" />
+  <img src="https://github.com/Bhaiyahns45/Bhaiyahns45/blob/8fd8e77fa5a2e83b1686bc659fdf69a4bfed3610/J4x.gif" alt="animated" />
 </p>
 
 
