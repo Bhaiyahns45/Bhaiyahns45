@@ -14,6 +14,8 @@
   <img src="https://github.com/Bhaiyahns45/Bhaiyahns45/blob/e8681c2b3c7105a4f0ffa098f2355620f2f2d1a6/Ai_gif.gif" alt="animated" />
 </p>
 
+<h4 align="center"> Artificial Intelligence </h4>
+
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaiyahns45&label=Profile%20views&color=0e75b6&style=flat" alt="bhaiyahns45" /> </p>
