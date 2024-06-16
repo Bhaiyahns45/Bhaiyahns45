@@ -1,7 +1,7 @@
 <h1 align="center">Bhaiya HN Singh</h1>
 <h3 align="center">Data Scientist @Nagarro</h3>
 
-<h4 align="center">Python | Data Science | Optimization</h4>
+<h4 align="center">Generative AI | Data Science | Optimization</h4>
 
 ---
 
