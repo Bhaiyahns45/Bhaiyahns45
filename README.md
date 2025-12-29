@@ -46,8 +46,7 @@
 </p>
 
 <ul>
-  <li><strong>What I do</strong>: Build production-ready ML/GenAI solutions and share practical learnings through blogs.</li>
-  <li><strong>Interests</strong>: LLM agents, RAG security, evaluation, and reliable deployment.</li>
+  <li><strong>What I do</strong>: Working at the intersection of Generative AI, Machine Learning, and Optimization to build high-impact, production-grade AI systems..</li>
 </ul>
 
 ---
@@ -81,18 +80,6 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
 
 **📚 Read all my blogs:** [Blog Hub](https://bhaiyahns45.github.io/My-Blogs/) | [Medium Profile](https://medium.com/@bhaiyasingh/)
 
----
-
-<div align="center">
-  <h2>🏆 Achievements & Awards</h2>
-</div>
-
-### 🎖️ Nagarro Awards
-- **The Brightest Mind** – June 2023, Apr 2025 (Nagarro Best Employee Award)
-- **CARING CheerBoard** – Oct 2022, Feb 2024, Jan 2025 (Nagarro Best Projects Award)
-- **The Rookie** – July 2022 (Nagarro Best Freshers Award)
-
----
 
 <div align="center">
   <h2>📜 Certifications</h2>
