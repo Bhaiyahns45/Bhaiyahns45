@@ -16,6 +16,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://github.com/Bhaiyahns45/Bhaiyahns45/blob/main/Artificial_Intelligence.gif" alt="AI Animation" width="100%" />
+</div>
+
 <div align="left">
   <h2>🚀 About Me</h2>
 </div>
