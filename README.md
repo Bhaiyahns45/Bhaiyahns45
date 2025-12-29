@@ -1,24 +1,43 @@
 <div align="center">
-  <img src="assets/hero.svg" alt="Professional — Data Scientist @ Nagarro" width="100%" />
-</div>
-
-<div align="center">
-  <a href="https://bhaiyahns45.github.io/My-Blogs/" title="Blog Hub">
-    <img src="https://img.shields.io/badge/Blogs-Read%20My%20Work-111827?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blogs" />
-  </a>
-  <a href="https://medium.com/@bhaiyasingh/" title="Medium Profile">
-    <img src="https://img.shields.io/badge/Medium-Follow-111827?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://linkedin.com/in/bhaiyahns45" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  
+  <!-- Animated GIF Banner -->
+  <img src="https://github.com/Bhaiyahns45/Bhaiyahns45/blob/main/Artificial_Intelligence.gif" alt="AI Animation" width="100%" height="200" />
+  
+  <br/>
+  
+  <!-- Name and Title -->
+  <h1>👋 Hi, I'm <strong>Bhaiya Singh</strong></h1>
+  
+  <h3>Data Scientist @ Nagarro | Generative AI Enthusiast | Tech Blogger</h3>
+  
+  <p><strong><em>Transforming complex data into actionable insights</em></strong></p>
+  
+  <!-- Location and Role Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Location-India-0ea5e9?style=flat-square&logo=location&logoColor=white" alt="Location: India" />
+    <img src="https://img.shields.io/badge/Role-Data%20Scientist-8b5cf6?style=flat-square" alt="Role: Data Scientist" />
+    <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20LLMs%20%7C%20RAG-10b981?style=flat-square" alt="Focus: GenAI | LLMs | RAG" />
+  </p>
+  
+  <!-- Social Links -->
+  <p>
+    <a href="https://linkedin.com/in/bhaiyahns45" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://medium.com/@bhaiyasingh" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="https://bhaiyahns45.github.io/My-Blogs/" target="_blank">
+      <img src="https://img.shields.io/badge/Blogs-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogs" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCqNDrttqajD59JbHwVVmaUw" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+  </p>
+  
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github.com/Bhaiyahns45/Bhaiyahns45/blob/main/Artificial_Intelligence.gif" alt="AI Animation" width="100%" height="100%" />
-</div>
 
 <div align="left">
   <h2>🚀 About Me</h2>
