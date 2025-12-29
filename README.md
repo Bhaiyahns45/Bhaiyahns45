@@ -1,11 +1,31 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bhaiya+HN+Singh!;+Data+Scientist+@Nagarro;+Generative+AI+Enthusiast;+Tech+Blogger+&+Content+Creator" />
+      <td align="left" width="58%">
+        <h2>Professional</h2>
+        <p>
+          <strong>Data Scientist @ Nagarro</strong><br/>
+          Transforming complex data into actionable insights
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Location-India-0e75b6?style=flat-square" alt="Location: India" />
+          <img src="https://img.shields.io/badge/Role-Data%20Scientist-1f2937?style=flat-square" alt="Role: Data Scientist" />
+          <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20LLMs%20%7C%20RAG-7c3aed?style=flat-square" alt="Focus: GenAI | LLMs | RAG" />
+        </p>
+        <p>
+          <a href="https://bhaiyahns45.github.io/My-Blogs/" title="Blog Hub">
+            <img src="https://img.shields.io/badge/Blogs-Read%20My%20Work-111827?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blogs" />
+          </a>
+          <a href="https://medium.com/@bhaiyasingh/" title="Medium Profile">
+            <img src="https://img.shields.io/badge/Medium-Follow-111827?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+          </a>
+          <a href="https://linkedin.com/in/bhaiyahns45" title="LinkedIn">
+            <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          </a>
+        </p>
       </td>
-      <td align="center" width="50%">
-        <img src="https://github.com/Bhaiyahns45/Bhaiyahns45/blob/main/Artificial_Intelligence.gif" alt="AI Animation" width="400" height="300" />
+      <td align="center" width="42%">
+        <img src="https://github.com/Bhaiyahns45/Bhaiyahns45/blob/main/Artificial_Intelligence.gif" alt="AI visual" width="420" />
       </td>
     </tr>
   </table>
@@ -13,66 +33,21 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <h2>🚀 About Me</h2>
 </div>
 
-<div align="center">
-  <img src="https://github.com/Bhaiyahns45/Bhaiyahns45/blob/main/Ai_gif.gif" alt="AI Animation" width="400" height="300" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs%20%7C%20Agents-7c3aed?style=flat-square" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/RAG-Search%20%2B%20Generation-0ea5e9?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Optimization-ACO%20%7C%20Metaheuristics-f59e0b?style=flat-square" alt="Optimization" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+</p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>👨‍💻 Professional</h3>
-        <p>
-          <strong>Data Scientist @ Nagarro</strong><br/>
-          <em>Transforming complex data into actionable insights</em>
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" alt="Location" />
-          <img src="https://img.shields.io/badge/Role-Data%20Scientist-red?style=flat-square" alt="Role" />
-        </p>
-      </td>
-      <td align="center" width="50%">
-        <h3>🎯 Expertise</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Generative%20AI-Expert-purple?style=for-the-badge&logo=openai" alt="Generative AI" />
-          <img src="https://img.shields.io/badge/LLMs-Specialist-orange?style=for-the-badge" alt="LLMs" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-blue?style=for-the-badge&logo=tensorflow" alt="ML" />
-          <img src="https://img.shields.io/badge/Data%20Science-Proficient-green?style=for-the-badge" alt="Data Science" />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <h3>🏆 Certifications</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Databricks-Generative%20AI%20Engineer%20Associate-FF6F00?style=for-the-badge&logo=databricks" alt="Databricks Certification" />
-        </p>
-        <h3>💼 Current Focus</h3>
-        <p>
-          <em>Building production-ready AI solutions and sharing knowledge through technical blogs</em>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <h3>🌟 Key Skills</h3>
-  <p>
-    <img src="https://img.shields.io/badge/RAG%20Systems-Expert-9cf?style=flat-square" alt="RAG Systems" />
-    <img src="https://img.shields.io/badge/LLM%20Agents-Production-blue?style=flat-square" alt="LLM Agents" />
-    <img src="https://img.shields.io/badge/Optimization-Algorithms-yellow?style=flat-square" alt="Optimization" />
-    <img src="https://img.shields.io/badge/AI%20Security-Prompt%20Injection-red?style=flat-square" alt="AI Security" />
-    <img src="https://img.shields.io/badge/Cloud-Azure-blue?style=flat-square&logo=microsoft-azure" alt="Azure" />
-    <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20K8s-blue?style=flat-square" alt="DevOps" />
-  </p>
-</div>
+<ul>
+  <li><strong>What I do</strong>: Build production-ready ML/GenAI solutions and share practical learnings through blogs.</li>
+  <li><strong>Interests</strong>: LLM agents, RAG security, evaluation, and reliable deployment.</li>
+</ul>
 
 ---
 
@@ -89,13 +64,19 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
 - **[🍌 Nano Banana Pro: Google's Revolutionary Image Generation Model](https://bhaiyahns45.github.io/My-Blogs/)** - Deep dive into Google's latest AI innovation
 
 #### ✍️ Medium Articles
-- **[🧠 How I Passed the Databricks Generative AI Engineer Associate Exam](https://medium.com/@bhaiyasingh/)** - Certification journey and insights
-- **[🔐 Integrating SharePoint Data with Your RAG Chatbot](https://medium.com/@bhaiyasingh/)** - Two approaches for secure access
-- **[🐜 How Ants Can Solve Complex Business Problems](https://medium.com/@bhaiyasingh/)** - Ant Colony Optimization explained
-- **[🚨 Understanding Prompt Injection](https://medium.com/@bhaiyasingh/)** - A real-world guide to a growing threat
-- **[💡 Introducing GPT-40 Mini: Cost-Efficient AI vs GPT-4o](https://medium.com/@bhaiyasingh/)** - Comprehensive comparison (17 min read)
-- **[🛠️ Customizing LLMs with Your Data](https://medium.com/@bhaiyasingh/)** - Best methods and practices
-- **[🚧 Top 5 Challenges in Deploying LLM Agents to Production](https://medium.com/@bhaiyasingh/)** - Production deployment insights
+- **[🧠 How I Passed the Databricks Generative AI Engineer Associate Exam](https://medium.com/@bhaiyasingh/)**
+- **[🔐 Integrating SharePoint Data with Your RAG Chatbot: Two Approaches for Secure Access](https://medium.com/@bhaiyasingh/)**
+
+<details>
+<summary><b>Show more Medium posts</b></summary>
+
+- **[🐜 How Ants Can Solve Complex Business Problems: Ant Colony Optimization](https://medium.com/@bhaiyasingh/)**
+- **[🚨 Understanding Prompt Injection: A Real-World Guide to a Growing Threat](https://medium.com/@bhaiyasingh/)**
+- **[💡 Introducing GPT-40 Mini: Cost-Efficient AI vs GPT-4o](https://medium.com/@bhaiyasingh/)**
+- **[🛠️ Customizing LLMs with Your Data: Best Methods](https://medium.com/@bhaiyasingh/)**
+- **[🚧 Top 5 Challenges in Deploying LLM Agents to Production](https://medium.com/@bhaiyasingh/)**
+
+</details>
 
 **📚 Read all my blogs:** [Blog Hub](https://bhaiyahns45.github.io/My-Blogs/) | [Medium Profile](https://medium.com/@bhaiyasingh/)
 
@@ -106,9 +87,9 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
 </div>
 
 ### 🎖️ Nagarro Awards
-- **🌟 The Brightest Mind** – June 2023, April 2025 (Nagarro Best Employee Award)
-- **💝 CARING CheerBoard** – October 2022, February 2024, January 2025 (Nagarro Best Projects Award)
-- **🌱 The Rookie** – July 2022 (Nagarro Best Freshers Award)
+- **The Brightest Mind** – June 2023, Apr 2025 (Nagarro Best Employee Award)
+- **CARING CheerBoard** – Oct 2022, Feb 2024, Jan 2025 (Nagarro Best Projects Award)
+- **The Rookie** – July 2022 (Nagarro Best Freshers Award)
 
 ---
 
@@ -117,25 +98,56 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
 </div>
 
 ### 🎓 Professional Certifications
+<p><em>Tip: hover on a badge to see the full certification name (tooltip), click to open the credential.</em></p>
 
 <div align="center">
 
 #### 🤖 Generative AI & Machine Learning
-[![Databricks Certified: Generative AI Engineer Associate](https://img.shields.io/badge/Databricks-Generative%20AI%20Engineer%20Associate-FF6F00?style=for-the-badge&logo=databricks)](https://credentials.databricks.com/27e3f1fc-432c-4ffe-b0a6-46601051f4d8#acc.Vcuf8avp)
-
-[![Databricks Certified: Machine Learning Associate](https://img.shields.io/badge/Databricks-Machine%20Learning%20Associate-FF6F00?style=for-the-badge&logo=databricks)](https://credentials.databricks.com/2c63a8c6-229d-431b-8894-da349420c73d)
-
-[![DeepLearning.AI: Multi AI Agent Systems with CrewAI](https://img.shields.io/badge/DeepLearning.AI-Multi%20AI%20Agent%20Systems-blue?style=for-the-badge&logo=tensorflow)](https://learn.deeplearning.ai/accomplishments/ce306b37-ba98-4dd5-bf95-f0c83ef13e6c?usp=sharing)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://credentials.databricks.com/27e3f1fc-432c-4ffe-b0a6-46601051f4d8#acc.Vcuf8avp" title="Databricks Certified: Generative AI Engineer Associate">
+        <img src="https://img.shields.io/badge/Databricks-Generative%20AI%20Engineer%20Associate-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Certified: Generative AI Engineer Associate" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://credentials.databricks.com/2c63a8c6-229d-431b-8894-da349420c73d" title="Databricks Certified: Machine Learning Associate">
+        <img src="https://img.shields.io/badge/Databricks-Machine%20Learning%20Associate-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Certified: Machine Learning Associate" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://learn.deeplearning.ai/accomplishments/ce306b37-ba98-4dd5-bf95-f0c83ef13e6c?usp=sharing" title="DeepLearning.AI: Multi AI Agent Systems with crewAI">
+        <img src="https://img.shields.io/badge/DeepLearning.AI-Multi%20AI%20Agent%20Systems%20(crewai)-1E3A8A?style=for-the-badge&logo=deeplearningdotai&logoColor=white" alt="DeepLearning.AI: Multi AI Agent Systems with crewAI" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 #### ☁️ Microsoft Azure Certifications
-[![Microsoft Certified: Azure Data Scientist Associate](https://img.shields.io/badge/Microsoft-Azure%20Data%20Scientist%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/c9f533e8-6c77-4876-b841-457fd7032bec/public_url)
-
-[![Microsoft Certified: Azure AI Fundamental](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamental%20(AI--900)-0078D4?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/068e934e-def2-43d4-8dba-8f208da9470a/public_url)
-
-[![Microsoft Certified: Azure Fundamental](https://img.shields.io/badge/Microsoft-Azure%20Fundamental%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/b253c4c8-b41c-42eb-9a35-095121cccfec/public_url)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/c9f533e8-6c77-4876-b841-457fd7032bec/public_url" title="Microsoft Certified: Azure Data Scientist Associate (DP-100)">
+        <img src="https://img.shields.io/badge/Microsoft-DP--100%20Azure%20Data%20Scientist-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft DP-100" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/068e934e-def2-43d4-8dba-8f208da9470a/public_url" title="Microsoft Certified: Azure AI Fundamentals (AI-900)">
+        <img src="https://img.shields.io/badge/Microsoft-AI--900%20Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AI-900" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/b253c4c8-b41c-42eb-9a35-095121cccfec/public_url" title="Microsoft Certified: Azure Fundamentals (AZ-900)">
+        <img src="https://img.shields.io/badge/Microsoft-AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-900" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 #### ☁️ AWS Certification
-[![AWS Certified: Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/b253c4c8-b41c-42eb-9a35-095121cccfec/public_url)
+<a href="https://www.credly.com/badges/b253c4c8-b41c-42eb-9a35-095121cccfec/public_url" title="AWS Certified: Cloud Practitioner (CCP)">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=111827" alt="AWS Certified: Cloud Practitioner" />
+</a>
 
 </div>
 
