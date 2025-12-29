@@ -186,79 +186,126 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
   <h2>🛠️ Tech Stack & Tools</h2>
 </div>
 
-### Programming & Data Science
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Programming & Data Science</h3>
+      <p>
+        <a href="https://www.python.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+        </a>
+        <a href="https://scikit-learn.org/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
+        </a>
+        <a href="https://pandas.pydata.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
+        </a>
+        <a href="https://numpy.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Cloud & Infrastructure</h3>
+      <p>
+        <a href="https://azure.microsoft.com/en-in/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
+        </a>
+        <a href="https://aws.amazon.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
+        </a>
+        <a href="https://www.docker.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+        </a>
+        <a href="https://kubernetes.io" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Databases & Caching</h3>
+      <p>
+        <a href="https://www.mysql.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+        </a>
+        <a href="https://redis.io" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Web Frameworks</h3>
+      <p>
+        <a href="https://flask.palletsprojects.com/" target="_blank">
+          <img src="images/flask.png" alt="flask" width="50" height="50"/>
+        </a>
+        <a href="https://fastapi.tiangolo.com/" target="_blank">
+          <img src="images/fastapi.png" alt="fastapi" width="50" height="50"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### Cloud & Infrastructure
-<p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/>
-  </a>
-</p>
+### 🚀 Advanced Agent Frameworks
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="images/LangChain.png" alt="LangChain" width="40" height="40" /> <strong>LangChain</strong>
+    </td>
+    <td width="50%" valign="top">
+      <img src="images/LangGraph.png" alt="LangGraph" width="40" height="40" /> <strong>LangGraph</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="images/GoogleADK.png" alt="Google ADK" width="40" height="40" /> <strong>Google ADK</strong>
+    </td>
+    <td width="50%" valign="top">
+      <img src="images/Pydantic.png" alt="Pydantic" width="40" height="40" /> <strong>Pydantic</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="images/CrewAI.png" alt="Crew AI" width="40" height="40" /> <strong>Crew AI</strong>
+    </td>
+    <td width="50%" valign="top">
+      <img src="images/AutoGen.jpg" alt="AutoGen" width="40" height="40" /> <strong>AutoGen</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2">
+      <img src="images/OpenAIAgentSDK.png" alt="OpenAI Agent SDK" width="40" height="40" /> <strong>OpenAI's Agent SDK (Formally Swarm)</strong>
+    </td>
+  </tr>
+</table>
 
-### Databases & Caching
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <a href="https://redis.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/>
-  </a>
-</p>
-
-### Web Frameworks
-<p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/>
-  </a>
-</p>
-
-### AI/ML Specializations
-- 🤖 **Generative AI**: LLMs, GPT models, Prompt Engineering
-- 🔍 **RAG Systems**: Retrieval-Augmented Generation architectures
-- 🧠 **Machine Learning**: Supervised/Unsupervised learning, Optimization
-- 🚀 **LLM Agents**: Production deployment and orchestration
-- 🔐 **AI Security**: Prompt injection, secure AI systems
-
----
-
-<div align="center">
-  <h2>📊 GitHub Statistics</h2>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhaiyahns45&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaiyahns45&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaiyahns45&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bhaiyahns45&theme=radical&column=7" alt="bhaiyahns45" />
-  </a>
-</div>
+### 🛠️ SDLC Tools
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="images/GitHubCopilot.png" alt="GitHub Copilot" width="40" height="40" /> <strong>GitHub Copilot</strong>
+    </td>
+    <td width="50%" valign="top">
+      <img src="images/CursorAI.jpg" alt="Cursor AI" width="40" height="40" /> <strong>Cursor AI</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="images/ClaudeCode.png" alt="Claude Code" width="40" height="40" /> <strong>Claude Code</strong>
+    </td>
+    <td width="50%" valign="top">
+      <img src="images/GeminiCLI.jpg" alt="Gemini CLI" width="40" height="40" /> <strong>Gemini CLI</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2">
+      <img src="images/WindsurfAI.png" alt="Windsurf AI" width="40" height="40" /> <strong>Windsurf AI</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -300,5 +347,5 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
 ---
 
 <div align="center">
-  <h3>💬 "Data is the new oil, but AI is the refinery that makes it valuable."</h3>
+  <p>© 2025 All rights reserved <strong>Bhaiya & Company</strong></p>
 </div>
