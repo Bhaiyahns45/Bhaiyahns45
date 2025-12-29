@@ -1,34 +1,17 @@
 <div align="center">
-  <table>
-    <tr>
-      <td align="left" width="58%">
-        <h2>Professional</h2>
-        <p>
-          <strong>Data Scientist @ Nagarro</strong><br/>
-          Transforming complex data into actionable insights
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Location-India-0e75b6?style=flat-square" alt="Location: India" />
-          <img src="https://img.shields.io/badge/Role-Data%20Scientist-1f2937?style=flat-square" alt="Role: Data Scientist" />
-          <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20LLMs%20%7C%20RAG-7c3aed?style=flat-square" alt="Focus: GenAI | LLMs | RAG" />
-        </p>
-        <p>
-          <a href="https://bhaiyahns45.github.io/My-Blogs/" title="Blog Hub">
-            <img src="https://img.shields.io/badge/Blogs-Read%20My%20Work-111827?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blogs" />
-          </a>
-          <a href="https://medium.com/@bhaiyasingh/" title="Medium Profile">
-            <img src="https://img.shields.io/badge/Medium-Follow-111827?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-          </a>
-          <a href="https://linkedin.com/in/bhaiyahns45" title="LinkedIn">
-            <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-          </a>
-        </p>
-      </td>
-      <td align="center" width="42%">
-        <img src="https://github.com/Bhaiyahns45/Bhaiyahns45/blob/main/Artificial_Intelligence.gif" alt="AI visual" width="420" />
-      </td>
-    </tr>
-  </table>
+  <img src="assets/hero.svg" alt="Professional — Data Scientist @ Nagarro" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://bhaiyahns45.github.io/My-Blogs/" title="Blog Hub">
+    <img src="https://img.shields.io/badge/Blogs-Read%20My%20Work-111827?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blogs" />
+  </a>
+  <a href="https://medium.com/@bhaiyasingh/" title="Medium Profile">
+    <img src="https://img.shields.io/badge/Medium-Follow-111827?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://linkedin.com/in/bhaiyahns45" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
@@ -107,17 +90,17 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
   <tr>
     <td align="center">
       <a href="https://credentials.databricks.com/27e3f1fc-432c-4ffe-b0a6-46601051f4d8#acc.Vcuf8avp" title="Databricks Certified: Generative AI Engineer Associate">
-        <img src="https://img.shields.io/badge/Databricks-Generative%20AI%20Engineer%20Associate-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Certified: Generative AI Engineer Associate" />
+        <img src="https://img.shields.io/badge/Databricks-Generative%20AI%20Engineer%20Associate-FF6F00?style=for-the-badge&labelColor=111827&logo=databricks&logoColor=white" alt="Databricks Certified: Generative AI Engineer Associate" />
       </a>
     </td>
     <td align="center">
       <a href="https://credentials.databricks.com/2c63a8c6-229d-431b-8894-da349420c73d" title="Databricks Certified: Machine Learning Associate">
-        <img src="https://img.shields.io/badge/Databricks-Machine%20Learning%20Associate-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Certified: Machine Learning Associate" />
+        <img src="https://img.shields.io/badge/Databricks-Machine%20Learning%20Associate-FF6F00?style=for-the-badge&labelColor=111827&logo=databricks&logoColor=white" alt="Databricks Certified: Machine Learning Associate" />
       </a>
     </td>
     <td align="center">
       <a href="https://learn.deeplearning.ai/accomplishments/ce306b37-ba98-4dd5-bf95-f0c83ef13e6c?usp=sharing" title="DeepLearning.AI: Multi AI Agent Systems with crewAI">
-        <img src="https://img.shields.io/badge/DeepLearning.AI-Multi%20AI%20Agent%20Systems%20(crewai)-1E3A8A?style=for-the-badge&logo=deeplearningdotai&logoColor=white" alt="DeepLearning.AI: Multi AI Agent Systems with crewAI" />
+        <img src="https://img.shields.io/badge/DeepLearning.AI-Multi%20AI%20Agent%20Systems%20(crewAI)-0ea5e9?style=for-the-badge&labelColor=111827&logo=deeplearningdotai&logoColor=white" alt="DeepLearning.AI: Multi AI Agent Systems with crewAI" />
       </a>
     </td>
   </tr>
@@ -128,17 +111,17 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
   <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/c9f533e8-6c77-4876-b841-457fd7032bec/public_url" title="Microsoft Certified: Azure Data Scientist Associate (DP-100)">
-        <img src="https://img.shields.io/badge/Microsoft-DP--100%20Azure%20Data%20Scientist-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft DP-100" />
+        <img src="https://img.shields.io/badge/Microsoft-DP--100%20Azure%20Data%20Scientist-0078D4?style=for-the-badge&labelColor=111827&logo=microsoftazure&logoColor=white" alt="Microsoft DP-100" />
       </a>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/068e934e-def2-43d4-8dba-8f208da9470a/public_url" title="Microsoft Certified: Azure AI Fundamentals (AI-900)">
-        <img src="https://img.shields.io/badge/Microsoft-AI--900%20Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AI-900" />
+        <img src="https://img.shields.io/badge/Microsoft-AI--900%20Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&labelColor=111827&logo=microsoftazure&logoColor=white" alt="Microsoft AI-900" />
       </a>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/b253c4c8-b41c-42eb-9a35-095121cccfec/public_url" title="Microsoft Certified: Azure Fundamentals (AZ-900)">
-        <img src="https://img.shields.io/badge/Microsoft-AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-900" />
+        <img src="https://img.shields.io/badge/Microsoft-AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&labelColor=111827&logo=microsoftazure&logoColor=white" alt="Microsoft AZ-900" />
       </a>
     </td>
   </tr>
@@ -146,7 +129,7 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
 
 #### ☁️ AWS Certification
 <a href="https://www.credly.com/badges/b253c4c8-b41c-42eb-9a35-095121cccfec/public_url" title="AWS Certified: Cloud Practitioner (CCP)">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=111827" alt="AWS Certified: Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&labelColor=111827&logo=amazonaws&logoColor=white" alt="AWS Certified: Cloud Practitioner" />
 </a>
 
 </div>
