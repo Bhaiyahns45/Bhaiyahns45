@@ -103,26 +103,12 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
 
 <div align="center">
 
-#### 🤖 Generative AI & Machine Learning
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://credentials.databricks.com/27e3f1fc-432c-4ffe-b0a6-46601051f4d8#acc.Vcuf8avp" title="Databricks Certified: Generative AI Engineer Associate">
-        <img src="images/DatabricksCertifiedGenerativeAIEngineerAssociate.png" alt="Databricks Certified: Generative AI Engineer Associate" width="100" height="100" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://credentials.databricks.com/2c63a8c6-229d-431b-8894-da349420c73d" title="Databricks Certified: Machine Learning Associate">
-        <img src="images/DatabricksCertifiedMachineLearningAssociate.png" alt="Databricks Certified: Machine Learning Associate" width="100" height="100" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://learn.deeplearning.ai/accomplishments/ce306b37-ba98-4dd5-bf95-f0c83ef13e6c?usp=sharing" title="DeepLearning.AI: Multi AI Agent Systems with crewAI">
-        <img src="images/DeepLearningAIMultiAIAgentSystemswithCrewAI.png" alt="DeepLearning.AI: Multi AI Agent Systems with crewAI" width="100" height="100" />
-      </a>
-    </td>
-  </tr>
-</table>
+#### ☁️ AWS Certification
+<div align="center">
+  <a href="https://www.credly.com/badges/b253c4c8-b41c-42eb-9a35-095121cccfec/public_url" title="AWS Certified: Cloud Practitioner (CCP)">
+    <img src="images/AWSCertifiedCloudPractitioner(CCP).jpg" alt="AWS Certified: Cloud Practitioner (CCP)" width="100" height="100" />
+  </a>
+</div>
 
 #### ☁️ Microsoft Azure Certifications
 <table>
@@ -145,12 +131,26 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
   </tr>
 </table>
 
-#### ☁️ AWS Certification
-<div align="center">
-  <a href="https://www.credly.com/badges/b253c4c8-b41c-42eb-9a35-095121cccfec/public_url" title="AWS Certified: Cloud Practitioner (CCP)">
-    <img src="images/AWSCertifiedCloudPractitioner(CCP).jpg" alt="AWS Certified: Cloud Practitioner (CCP)" width="100" height="100" />
-  </a>
-</div>
+#### 🤖 Databricks and DeepLearning.AI
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://credentials.databricks.com/27e3f1fc-432c-4ffe-b0a6-46601051f4d8#acc.Vcuf8avp" title="Databricks Certified: Generative AI Engineer Associate">
+        <img src="images/DatabricksCertifiedGenerativeAIEngineerAssociate.png" alt="Databricks Certified: Generative AI Engineer Associate" width="100" height="100" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://credentials.databricks.com/2c63a8c6-229d-431b-8894-da349420c73d" title="Databricks Certified: Machine Learning Associate">
+        <img src="images/DatabricksCertifiedMachineLearningAssociate.png" alt="Databricks Certified: Machine Learning Associate" width="100" height="100" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://learn.deeplearning.ai/accomplishments/ce306b37-ba98-4dd5-bf95-f0c83ef13e6c?usp=sharing" title="DeepLearning.AI: Multi AI Agent Systems with crewAI">
+        <img src="images/DeepLearningAIMultiAIAgentSystemswithCrewAI.png" alt="DeepLearning.AI: Multi AI Agent Systems with crewAI" width="100" height="100" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
