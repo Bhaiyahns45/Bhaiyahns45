@@ -1,5 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bhaiya+HN+Singh!;+Data+Scientist+@Nagarro;+Generative+AI+Enthusiast;+Tech+Blogger+&+Content+Creator" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bhaiya+HN+Singh!;+Data+Scientist+@Nagarro;+Generative+AI+Enthusiast;+Tech+Blogger+&+Content+Creator" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github.com/Bhaiyahns45/Bhaiyahns45/blob/main/Artificial_Intelligence.gif" alt="AI Animation" width="400" height="300" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -89,6 +98,74 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
 - **[🚧 Top 5 Challenges in Deploying LLM Agents to Production](https://medium.com/@bhaiyasingh/)** - Production deployment insights
 
 **📚 Read all my blogs:** [Blog Hub](https://bhaiyahns45.github.io/My-Blogs/) | [Medium Profile](https://medium.com/@bhaiyasingh/)
+
+---
+
+<div align="center">
+  <h2>🏆 Achievements & Awards</h2>
+</div>
+
+### 🎖️ Nagarro Awards
+- **🌟 The Brightest Mind** – June 2023, April 2025 (Nagarro Best Employee Award)
+- **💝 CARING CheerBoard** – October 2022, February 2024, January 2025 (Nagarro Best Projects Award)
+- **🌱 The Rookie** – July 2022 (Nagarro Best Freshers Award)
+
+---
+
+<div align="center">
+  <h2>📜 Certifications</h2>
+</div>
+
+### 🎓 Professional Certifications
+
+<div align="center">
+
+#### 🤖 Generative AI & Machine Learning
+[![Databricks Certified: Generative AI Engineer Associate](https://img.shields.io/badge/Databricks-Generative%20AI%20Engineer%20Associate-FF6F00?style=for-the-badge&logo=databricks)](https://credentials.databricks.com/27e3f1fc-432c-4ffe-b0a6-46601051f4d8#acc.Vcuf8avp)
+
+[![Databricks Certified: Machine Learning Associate](https://img.shields.io/badge/Databricks-Machine%20Learning%20Associate-FF6F00?style=for-the-badge&logo=databricks)](https://credentials.databricks.com/2c63a8c6-229d-431b-8894-da349420c73d)
+
+[![DeepLearning.AI: Multi AI Agent Systems with CrewAI](https://img.shields.io/badge/DeepLearning.AI-Multi%20AI%20Agent%20Systems-blue?style=for-the-badge&logo=tensorflow)](https://learn.deeplearning.ai/accomplishments/ce306b37-ba98-4dd5-bf95-f0c83ef13e6c?usp=sharing)
+
+#### ☁️ Microsoft Azure Certifications
+[![Microsoft Certified: Azure Data Scientist Associate](https://img.shields.io/badge/Microsoft-Azure%20Data%20Scientist%20Associate-0078D4?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/c9f533e8-6c77-4876-b841-457fd7032bec/public_url)
+
+[![Microsoft Certified: Azure AI Fundamental](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamental%20(AI--900)-0078D4?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/068e934e-def2-43d4-8dba-8f208da9470a/public_url)
+
+[![Microsoft Certified: Azure Fundamental](https://img.shields.io/badge/Microsoft-Azure%20Fundamental%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoft-azure)](https://www.credly.com/badges/b253c4c8-b41c-42eb-9a35-095121cccfec/public_url)
+
+#### ☁️ AWS Certification
+[![AWS Certified: Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/b253c4c8-b41c-42eb-9a35-095121cccfec/public_url)
+
+</div>
+
+<details>
+<summary><b>📋 View All Certifications (Click to expand)</b></summary>
+
+#### Detailed Certification Links:
+
+1. **[Databricks Certified: Generative AI Engineer Associate](https://credentials.databricks.com/27e3f1fc-432c-4ffe-b0a6-46601051f4d8#acc.Vcuf8avp)**
+   - Validated expertise in building and deploying generative AI solutions
+
+2. **[Databricks Certified: Machine Learning Associate](https://credentials.databricks.com/2c63a8c6-229d-431b-8894-da349420c73d)**
+   - Demonstrated proficiency in machine learning workflows on Databricks
+
+3. **[DeepLearning.AI: Multi AI Agent Systems with CrewAI](https://learn.deeplearning.ai/accomplishments/ce306b37-ba98-4dd5-bf95-f0c83ef13e6c?usp=sharing)**
+   - Completed comprehensive course on building multi-agent AI systems
+
+4. **[Microsoft Certified: Azure Data Scientist Associate (DP-100)](https://www.credly.com/badges/c9f533e8-6c77-4876-b841-457fd7032bec/public_url)**
+   - Certified in designing and implementing data science solutions on Azure
+
+5. **[Microsoft Certified: Azure AI Fundamental (AI-900)](https://www.credly.com/badges/068e934e-def2-43d4-8dba-8f208da9470a/public_url)**
+   - Fundamental knowledge of Azure AI services and capabilities
+
+6. **[Microsoft Certified: Azure Fundamental (AZ-900)](https://www.credly.com/badges/b253c4c8-b41c-42eb-9a35-095121cccfec/public_url)**
+   - Core understanding of Azure cloud services and solutions
+
+7. **[AWS Certified: Cloud Practitioner (CCP)](https://www.credly.com/badges/b253c4c8-b41c-42eb-9a35-095121cccfec/public_url)**
+   - Foundational knowledge of AWS cloud platform
+
+</details>
 
 ---
 
