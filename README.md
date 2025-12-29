@@ -8,31 +8,62 @@
   <h2>🚀 About Me</h2>
 </div>
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Bhaiya HN Singh"
-        self.role = "Data Scientist @ Nagarro"
-        self.location = "India"
-        self.expertise = [
-            "Generative AI & LLMs",
-            "Machine Learning",
-            "Data Science",
-            "Optimization Algorithms",
-            "RAG Systems",
-            "LLM Agents"
-        ]
-        self.certifications = [
-            "Databricks Generative AI Engineer Associate"
-        ]
-        self.passion = "Transforming complex data into actionable insights"
-    
-    def current_focus(self):
-        return "Building production-ready AI solutions and sharing knowledge through technical blogs"
-    
-    def say_hello(self):
-        return "Let's connect and explore the world of AI together! 🤝"
-```
+<div align="center">
+  <img src="https://github.com/Bhaiyahns45/Bhaiyahns45/blob/main/Ai_gif.gif" alt="AI Animation" width="400" height="300" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>👨‍💻 Professional</h3>
+        <p>
+          <strong>Data Scientist @ Nagarro</strong><br/>
+          <em>Transforming complex data into actionable insights</em>
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" alt="Location" />
+          <img src="https://img.shields.io/badge/Role-Data%20Scientist-red?style=flat-square" alt="Role" />
+        </p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🎯 Expertise</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Generative%20AI-Expert-purple?style=for-the-badge&logo=openai" alt="Generative AI" />
+          <img src="https://img.shields.io/badge/LLMs-Specialist-orange?style=for-the-badge" alt="LLMs" />
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-blue?style=for-the-badge&logo=tensorflow" alt="ML" />
+          <img src="https://img.shields.io/badge/Data%20Science-Proficient-green?style=for-the-badge" alt="Data Science" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <h3>🏆 Certifications</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Databricks-Generative%20AI%20Engineer%20Associate-FF6F00?style=for-the-badge&logo=databricks" alt="Databricks Certification" />
+        </p>
+        <h3>💼 Current Focus</h3>
+        <p>
+          <em>Building production-ready AI solutions and sharing knowledge through technical blogs</em>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>🌟 Key Skills</h3>
+  <p>
+    <img src="https://img.shields.io/badge/RAG%20Systems-Expert-9cf?style=flat-square" alt="RAG Systems" />
+    <img src="https://img.shields.io/badge/LLM%20Agents-Production-blue?style=flat-square" alt="LLM Agents" />
+    <img src="https://img.shields.io/badge/Optimization-Algorithms-yellow?style=flat-square" alt="Optimization" />
+    <img src="https://img.shields.io/badge/AI%20Security-Prompt%20Injection-red?style=flat-square" alt="AI Security" />
+    <img src="https://img.shields.io/badge/Cloud-Azure-blue?style=flat-square&logo=microsoft-azure" alt="Azure" />
+    <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20K8s-blue?style=flat-square" alt="DevOps" />
+  </p>
+</div>
 
 ---
 
