@@ -4,7 +4,7 @@
   <!-- Name and Title -->
   <h1>👋 Hi, I'm <strong>Bhaiya Singh</strong></h1>
   
-  <h3>Data Scientist @ Nagarro | Generative AI Enthusiast | Tech Blogger</h3>
+  <h3>Data Scientist @ Nagarro | AI Enthusiast | Tech Blogger</h3>
   
   <p><strong><em>Transforming complex data into actionable insights</em></strong></p>
   
