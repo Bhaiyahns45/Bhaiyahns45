@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Bhaiyahns45/Bhaiyahns45/blob/main/Artificial_Intelligence.gif" alt="AI Animation" width="100%" height="200" />
+  <img src="https://github.com/Bhaiyahns45/Bhaiyahns45/blob/main/Artificial_Intelligence.gif" alt="AI Animation" width="100%" height="50" />
 </div>
 
 <div align="left">
