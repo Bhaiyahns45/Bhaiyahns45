@@ -186,7 +186,7 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
   <h2>🛠️ Tech Stack & Tools</h2>
 </div>
 
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3>Programming & Data Science</h3>
