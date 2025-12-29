@@ -186,7 +186,7 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
   <h2>🛠️ Tech Stack & Tools</h2>
 </div>
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>Programming & Data Science</h3>
@@ -249,60 +249,67 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
   </tr>
 </table>
 
-### 🚀 Advanced Agent Frameworks
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="images/LangChain.png" alt="LangChain" width="40" height="40" /> <strong>LangChain</strong>
+      <h3><img src="images/agent.png" alt="Agent" width="30" height="30" /> Advanced Agent Frameworks</h3>
+      <table>
+        <tr>
+          <td valign="top">
+            <img src="images/LangChain.png" alt="LangChain" width="40" height="40" /> <strong>LangChain</strong>
+          </td>
+          <td valign="top">
+            <img src="images/LangGraph.png" alt="LangGraph" width="40" height="40" /> <strong>LangGraph</strong>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">
+            <img src="images/GoogleADK.png" alt="Google ADK" width="40" height="40" /> <strong>Google ADK</strong>
+          </td>
+          <td valign="top">
+            <img src="images/Pydantic.png" alt="Pydantic" width="40" height="40" /> <strong>Pydantic</strong>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">
+            <img src="images/CrewAI.png" alt="Crew AI" width="40" height="40" /> <strong>Crew AI</strong>
+          </td>
+          <td valign="top">
+            <img src="images/AutoGen.jpg" alt="AutoGen" width="40" height="40" /> <strong>AutoGen</strong>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" colspan="2">
+            <img src="images/OpenAIAgentSDK.png" alt="OpenAI Agent SDK" width="40" height="40" /> <strong>OpenAI's Agent SDK (Formally Swarm)</strong>
+          </td>
+        </tr>
+      </table>
     </td>
     <td width="50%" valign="top">
-      <img src="images/LangGraph.png" alt="LangGraph" width="40" height="40" /> <strong>LangGraph</strong>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="images/GoogleADK.png" alt="Google ADK" width="40" height="40" /> <strong>Google ADK</strong>
-    </td>
-    <td width="50%" valign="top">
-      <img src="images/Pydantic.png" alt="Pydantic" width="40" height="40" /> <strong>Pydantic</strong>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="images/CrewAI.png" alt="Crew AI" width="40" height="40" /> <strong>Crew AI</strong>
-    </td>
-    <td width="50%" valign="top">
-      <img src="images/AutoGen.jpg" alt="AutoGen" width="40" height="40" /> <strong>AutoGen</strong>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2">
-      <img src="images/OpenAIAgentSDK.png" alt="OpenAI Agent SDK" width="40" height="40" /> <strong>OpenAI's Agent SDK (Formally Swarm)</strong>
-    </td>
-  </tr>
-</table>
-
-### 🛠️ SDLC Tools
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="images/GitHubCopilot.png" alt="GitHub Copilot" width="40" height="40" /> <strong>GitHub Copilot</strong>
-    </td>
-    <td width="50%" valign="top">
-      <img src="images/CursorAI.jpg" alt="Cursor AI" width="40" height="40" /> <strong>Cursor AI</strong>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="images/ClaudeCode.png" alt="Claude Code" width="40" height="40" /> <strong>Claude Code</strong>
-    </td>
-    <td width="50%" valign="top">
-      <img src="images/GeminiCLI.jpg" alt="Gemini CLI" width="40" height="40" /> <strong>Gemini CLI</strong>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2">
-      <img src="images/WindsurfAI.png" alt="Windsurf AI" width="40" height="40" /> <strong>Windsurf AI</strong>
+      <h3>🛠️ SDLC Tools</h3>
+      <table>
+        <tr>
+          <td valign="top">
+            <img src="images/GitHubCopilot.png" alt="GitHub Copilot" width="40" height="40" /> <strong>GitHub Copilot</strong>
+          </td>
+          <td valign="top">
+            <img src="images/CursorAI.jpg" alt="Cursor AI" width="40" height="40" /> <strong>Cursor AI</strong>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">
+            <img src="images/ClaudeCode.png" alt="Claude Code" width="40" height="40" /> <strong>Claude Code</strong>
+          </td>
+          <td valign="top">
+            <img src="images/GeminiCLI.jpg" alt="Gemini CLI" width="40" height="40" /> <strong>Gemini CLI</strong>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top" colspan="2">
+            <img src="images/WindsurfAI.png" alt="Windsurf AI" width="40" height="40" /> <strong>Windsurf AI</strong>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
