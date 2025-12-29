@@ -108,17 +108,17 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
   <tr>
     <td align="center">
       <a href="https://credentials.databricks.com/27e3f1fc-432c-4ffe-b0a6-46601051f4d8#acc.Vcuf8avp" title="Databricks Certified: Generative AI Engineer Associate">
-        <img src="https://img.shields.io/badge/Databricks-Generative%20AI%20Engineer%20Associate-FF6F00?style=for-the-badge&logo=databricks&logoColor=FFFFFF&labelColor=000000&color=FF6F00" alt="Databricks Certified: Generative AI Engineer Associate" />
+        <img src="images/DatabricksCertifiedGenerativeAIEngineerAssociate.png" alt="Databricks Certified: Generative AI Engineer Associate" width="100" height="100" />
       </a>
     </td>
     <td align="center">
       <a href="https://credentials.databricks.com/2c63a8c6-229d-431b-8894-da349420c73d" title="Databricks Certified: Machine Learning Associate">
-        <img src="https://img.shields.io/badge/Databricks-Machine%20Learning%20Associate-FF6F00?style=for-the-badge&logo=databricks&logoColor=FFFFFF&labelColor=000000&color=FF6F00" alt="Databricks Certified: Machine Learning Associate" />
+        <img src="images/DatabricksCertifiedMachineLearningAssociate.png" alt="Databricks Certified: Machine Learning Associate" width="100" height="100" />
       </a>
     </td>
     <td align="center">
       <a href="https://learn.deeplearning.ai/accomplishments/ce306b37-ba98-4dd5-bf95-f0c83ef13e6c?usp=sharing" title="DeepLearning.AI: Multi AI Agent Systems with crewAI">
-        <img src="https://img.shields.io/badge/DeepLearning.AI-Multi%20AI%20Agent%20Systems%20(crewAI)-0ea5e9?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF&labelColor=000000&color=0ea5e9" alt="DeepLearning.AI: Multi AI Agent Systems with crewAI" />
+        <img src="images/DeepLearningAIMultiAIAgentSystemswithCrewAI.png" alt="DeepLearning.AI: Multi AI Agent Systems with crewAI" width="100" height="100" />
       </a>
     </td>
   </tr>
@@ -129,26 +129,28 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
   <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/c9f533e8-6c77-4876-b841-457fd7032bec/public_url" title="Microsoft Certified: Azure Data Scientist Associate (DP-100)">
-        <img src="https://img.shields.io/badge/Microsoft-DP--100%20Azure%20Data%20Scientist-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF&labelColor=000000&color=0078D4" alt="Microsoft DP-100" />
+        <img src="images/MicrosoftCertifiedAzureDataScientistAssociate(DP-100).png" alt="Microsoft Certified: Azure Data Scientist Associate (DP-100)" width="100" height="100" />
       </a>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/068e934e-def2-43d4-8dba-8f208da9470a/public_url" title="Microsoft Certified: Azure AI Fundamentals (AI-900)">
-        <img src="https://img.shields.io/badge/Microsoft-AI--900%20Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF&labelColor=000000&color=0078D4" alt="Microsoft AI-900" />
+        <img src="images/MicrosoftCertifiedAzureAIFundamental(AI-900).png" alt="Microsoft Certified: Azure AI Fundamentals (AI-900)" width="100" height="100" />
       </a>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/b253c4c8-b41c-42eb-9a35-095121cccfec/public_url" title="Microsoft Certified: Azure Fundamentals (AZ-900)">
-        <img src="https://img.shields.io/badge/Microsoft-AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF&labelColor=000000&color=0078D4" alt="Microsoft AZ-900" />
+        <img src="images/Microsoft Certified Azure Fundamental (AZ-900).png" alt="Microsoft Certified: Azure Fundamentals (AZ-900)" width="100" height="100" />
       </a>
     </td>
   </tr>
 </table>
 
 #### ☁️ AWS Certification
-<a href="https://www.credly.com/badges/b253c4c8-b41c-42eb-9a35-095121cccfec/public_url" title="AWS Certified: Cloud Practitioner (CCP)">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF&labelColor=000000&color=FF9900" alt="AWS Certified: Cloud Practitioner" />
-</a>
+<div align="center">
+  <a href="https://www.credly.com/badges/b253c4c8-b41c-42eb-9a35-095121cccfec/public_url" title="AWS Certified: Cloud Practitioner (CCP)">
+    <img src="images/AWSCertifiedCloudPractitioner(CCP).jpg" alt="AWS Certified: Cloud Practitioner (CCP)" width="100" height="100" />
+  </a>
+</div>
 
 </div>
 
