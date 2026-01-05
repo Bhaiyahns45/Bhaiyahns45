@@ -16,13 +16,13 @@
   
   <!-- Social Links -->
   <p>
-    <a href="https://linkedin.com/in/bhaiyahns45" target="_blank">
+    <a href="https://linkedin.com/in/bhaiyahnsingh45" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://medium.com/@bhaiyasingh" target="_blank">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a>
-    <a href="https://bhaiyahns45.github.io/My-Blogs/" target="_blank">
+    <a href="https://bhaiyahnsingh45.github.io/My-Blogs/" target="_blank">
       <img src="https://img.shields.io/badge/Blogs-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogs" />
     </a>
     <a href="https://www.youtube.com/channel/UCqNDrttqajD59JbHwVVmaUw" target="_blank">
@@ -60,8 +60,8 @@
 I write extensively about **AI, LLMs, and cutting-edge technology**. Check out my work:
 
 #### 🌐 Self-Hosted Blogs
-- **[🔧 Tech Restructuring — How AI is Rebuilding Industries](https://bhaiyahns45.github.io/My-Blogs/)** - Exploring how AI transforms industries
-- **[🍌 Nano Banana Pro: Google's Revolutionary Image Generation Model](https://bhaiyahns45.github.io/My-Blogs/)** - Deep dive into Google's latest AI innovation
+- **[🔧 Tech Restructuring — How AI is Rebuilding Industries](https://bhaiyahnsingh45.github.io/My-Blogs/)** - Exploring how AI transforms industries
+- **[🍌 Nano Banana Pro: Google's Revolutionary Image Generation Model](https://bhaiyahnsingh45.github.io/My-Blogs/)** - Deep dive into Google's latest AI innovation
 
 #### ✍️ Medium Articles
 - **[🧠 How I Passed the Databricks Generative AI Engineer Associate Exam](https://medium.com/@bhaiyasingh/)**
@@ -78,7 +78,7 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
 
 </details>
 
-**📚 Read all my blogs:** [Blog Hub](https://bhaiyahns45.github.io/My-Blogs/) | [Medium Profile](https://medium.com/@bhaiyasingh/)
+**📚 Read all my blogs:** [Blog Hub](https://bhaiyahnsingh45.github.io/My-Blogs/) | [Medium Profile](https://medium.com/@bhaiyasingh/)
 
 
 <div align="center">
@@ -314,20 +314,20 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/bhaiyahns45" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaiyahns45" height="40" width="50" />
+  <a href="https://linkedin.com/in/bhaiyahnsingh45" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaiyahnsingh45" height="40" width="50" />
   </a>
   <a href="https://medium.com/@bhaiyasingh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhaiyasingh" height="40" width="50" />
   </a>
-  <a href="https://bhaiyahns45.github.io/My-Blogs/" target="blank">
+  <a href="https://bhaiyahnsingh45.github.io/My-Blogs/" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/blogger.png" alt="blog" height="40" width="50" />
   </a>
   <a href="https://www.youtube.com/channel/UCqNDrttqajD59JbHwVVmaUw" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bhaiya hn singh" height="40" width="50" />
   </a>
-  <a href="https://www.hackerrank.com/bhaiyahns45" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhaiyahns45" height="40" width="50" />
+  <a href="https://www.hackerrank.com/bhaiyahnsingh45" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhaiyahnsingh45" height="40" width="50" />
   </a>
   <a href="https://instagram.com/bhaiya_hnsingh45" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhaiya_hnsingh45" height="40" width="50" />
@@ -338,7 +338,7 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
 
 <div align="center">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=bhaiyahns45&label=Profile%20views&color=0e75b6&style=flat" alt="bhaiyahns45" />
+    <img src="https://komarev.com/ghpvc/?username=bhaiyahnsingh45&label=Profile%20views&color=0e75b6&style=flat" alt="bhaiyahnsingh45" />
   </p>
   <p>⭐️ From <a href="https://github.com/Bhaiyahns45">Bhaiyahns45</a></p>
 </div>
