@@ -334,14 +334,6 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
   </a>
 </p>
 
----
-
-<div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=bhaiyahnsingh45&label=Profile%20views&color=0e75b6&style=flat" alt="bhaiyahnsingh45" />
-  </p>
-  <p>⭐️ From <a href="https://github.com/Bhaiyahns45">Bhaiyahns45</a></p>
-</div>
 
 ---
 
