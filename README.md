@@ -78,7 +78,7 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
 
 </details>
 
-**📚 Read all my blogs:** [Blog Hub](https://bhaiyahnsingh45.github.io/My-Blogs/) | [Medium Profile](https://medium.com/@bhaiyasingh/)
+**📚 Read all my blogs:** [Blog Hub](https://bhaiyahnsingh45.github.io/My-Blogs/) | [Medium Profile](https://medium.com/@bhaiyahnsingh45/)
 
 
 <div align="center">
