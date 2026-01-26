@@ -317,7 +317,7 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
   <a href="https://linkedin.com/in/bhaiyahnsingh45" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaiyahnsingh45" height="40" width="50" />
   </a>
-  <a href="https://medium.com/@bhaiyasingh" target="blank">
+  <a href="https://medium.com/@bhaiyahnsingh45" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhaiyasingh" height="40" width="50" />
   </a>
   <a href="https://bhaiyahnsingh45.github.io/My-Blogs/" target="blank">
@@ -329,7 +329,7 @@ I write extensively about **AI, LLMs, and cutting-edge technology**. Check out m
   <a href="https://www.hackerrank.com/bhaiyahnsingh45" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhaiyahnsingh45" height="40" width="50" />
   </a>
-  <a href="https://instagram.com/bhaiya_hnsingh45" target="blank">
+  <a href="https://instagram.com/bhaiyahnsingh45" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhaiya_hnsingh45" height="40" width="50" />
   </a>
 </p>
