@@ -2,7 +2,7 @@
   
   
   <!-- Name and Title -->
-  <h1>👋 Hi, I'm <strong>Bhaiya Singh</strong></h1>
+  <h1>👋 Hi, I'm <strong>Bhaiya HN Singh</strong></h1>
   
   <h3>Data Scientist @ Nagarro | AI Enthusiast | Tech Blogger</h3>
   
